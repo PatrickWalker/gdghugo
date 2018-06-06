@@ -1,0 +1,2 @@
+# gdghugo
+Hugo Site
